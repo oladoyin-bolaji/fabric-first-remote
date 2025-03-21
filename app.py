@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 🔹 Set the remote Ollama host (Update with new ngrok URL when Colab restarts)
-ollama_host = "https://8504-35-204-158-82.ngrok-free.app"  # Replace with new URL if needed
+ollama_host = "https://2fc5-35-204-158-82.ngrok-free.app"  # Replace with new URL if needed
 os.environ["OLLAMA_API_BASE"] = ollama_host
 
 # UI configurations
